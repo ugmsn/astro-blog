@@ -16,6 +16,7 @@ html {
   }
   
   h1 {
+    color: purple;
     margin: 1rem 0;
     font-size: 2.5rem;
   }
@@ -77,6 +78,7 @@ html {
 
 .nav-links a:hover, a:focus {
   background-color: #ff9776;
+  color: #f1f5f9;
 }
 
 .expanded {
